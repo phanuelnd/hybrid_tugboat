@@ -1,0 +1,19 @@
+# Ignore raw data files
+data/raw/
+
+data/processed/
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env/
+.venv/
+myenv/
+.ipynb_checkpoints/
+*.log
+*.tmp
+.DS_Store
